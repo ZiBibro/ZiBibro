@@ -1,7 +1,3 @@
-## Radion Maksymenko
-
-Cofounder and CEO of [RadZib Interactive](https://radzibinteractive.com), a studio building **Echoes Forge**, an AI-powered UGC platform for narrative single-player games. The platform pairs a creation tool with a marketplace, and on-chain provenance carries authorship of what people make in it. Our own post-apocalyptic RPG **Echoes of the Rozlom** ships as the showcase for what the editor can do. Alongside the studio, I build and research on Solana.
-
 ### On Solana
 
 **ZeroClaw plugins for a Solana portfolio.** Three tool plugins written in Rust and compiled to WASI. Two are read-only watchers, one for lending health and one for stake accounts; the third builds an unsigned stake transaction and holds no keys at any point. It placed **2nd** of 176 submissions in Superteam Brasil's [Build Solana-native plugins for ZeroClaw](https://superteam.fun/earn/listing/zeroclaw/) bounty. Building it surfaced nine defects in the ZeroClaw core, which I filed upstream with reproductions: six are closed, and two of the rest carry my own fixes, one of them already approved by a maintainer. [Source and docs](https://github.com/ZiBibro/solana-portfolio-sentinel).
@@ -18,9 +14,6 @@ Game and environment design in Unreal Engine 5, which I taught for a year to fin
 
 ### Elsewhere
 
-- Studio: [radzibinteractive.com](https://radzibinteractive.com)
-- Writing: [radionmaksymenko.substack.com](https://radionmaksymenko.substack.com)
-- X: [@ZiBibro](https://x.com/ZiBibro)
-- Telegram: [@ZiBibro](https://t.me/ZiBibro)
+- All links in one: [Linktree](https://linktr.ee/zibibro)
 
 _Informational only, not legal advice._
