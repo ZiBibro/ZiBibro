@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="408" height="108" viewBox="0 0 408 108" role="img" aria-label="Solana for beginners. Plain-language Solana guide with live network data. Open source, live page">
+  <rect x="0.5" y="0.5" width="399" height="99" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+  <text x="16" y="31" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, sans-serif" font-size="16" font-weight="600" fill="#0969da">Solana for beginners</text>
+  <text x="16" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, sans-serif" font-size="13" fill="#59636e">Plain-language Solana guide with live network data</text>
+  <text x="16" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, sans-serif" font-size="12" fill="#59636e">Open source</text>
+  <g transform="translate(302,66)">
+    <rect x="0.5" y="0.5" width="81" height="21" rx="10.5" fill="none" stroke="#d1d9e0"/>
+    <text x="41" y="15" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, sans-serif" font-size="12" font-weight="500" fill="#59636e">live page</text>
+  </g>
+</svg>
