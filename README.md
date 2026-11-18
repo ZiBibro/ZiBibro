@@ -25,7 +25,7 @@
 
 <p>Other people's products can get a review too. After a click-through of a site or an app, its developers get notes on which parts of the UI and UX work and which features belong somewhere else.</p>
 
-<p>Building the ZeroClaw plugins turned up <a href="https://github.com/zeroclaw-labs/zeroclaw/issues?q=author%3AZiBibro">nine defects in its core</a>, and each went upstream with a reproduction; eight are closed and two of the fixes are merged.</p>
+<p>Building the ZeroClaw plugins turned up <a href="https://github.com/zeroclaw-labs/zeroclaw/issues?q=author%3AZiBibro">nine defects in its core</a>, and each went upstream with a reproduction; all nine are now fixed by merged pull requests, two of them my own.</p>
 
 <h3>Before AI: design and a game studio</h3>
 
