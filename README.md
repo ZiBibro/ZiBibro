@@ -8,12 +8,12 @@
   <a href="https://linktr.ee/zibibro"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-all-links-dark.svg"><img src="assets/link-all-links-light.svg" alt="All links"></picture></a>
 </p>
 
-<h3>Bounty work and open source</h3>
+<h3>Solana bounty work and open source</h3>
 
 <p>
-  <a href="https://github.com/ZiBibro/solana-validator-tx-ordering"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-1-dark.svg"><img src="assets/card-1-light.svg" alt="Validator tx ordering kit. How mainnet leaders order transactions in a block. Open source, mainnet data"></picture></a>
+  <a href="https://github.com/ZiBibro/solana-validator-tx-ordering"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-1-dark.svg"><img src="assets/card-1-light.svg" alt="Validator tx ordering kit. How Solana leaders order transactions in a block. Open source, mainnet data"></picture></a>
   <a href="https://github.com/ZiBibro/solana-for-beginners"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-2-dark.svg"><img src="assets/card-2-light.svg" alt="Solana for beginners. Plain-language Solana guide with live network data. Open source, live page"></picture></a>
-  <a href="https://github.com/ZiBibro/solana-portfolio-sentinel"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-3-dark.svg"><img src="assets/card-3-light.svg" alt="ZeroClaw portfolio plugins. Watches lending health and stakes, holds no keys. Superteam Brasil bounty, 2nd of 176 entries"></picture></a>
+  <a href="https://github.com/ZiBibro/solana-portfolio-sentinel"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-3-dark.svg"><img src="assets/card-3-light.svg" alt="ZeroClaw portfolio plugins. Watches Solana loan health and stakes, holds no keys. Superteam Brasil bounty, 2nd of 176 entries"></picture></a>
   <a href="https://github.com/solanabr/crypto-legal-skill"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-4-dark.svg"><img src="assets/card-4-light.svg" alt="crypto-legal agent skill. Legal triage for Solana founders, cites the statutes. Superteam Brasil bounty, 5th of 329 entries"></picture></a>
 </p>
 
