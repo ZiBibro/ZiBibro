@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="408" height="108" viewBox="0 0 408 108" role="img" aria-label="Validator tx ordering kit. How mainnet leaders order transactions in a block. Open source, mainnet data">
+<svg xmlns="http://www.w3.org/2000/svg" width="408" height="108" viewBox="0 0 408 108" role="img" aria-label="Validator tx ordering kit. How Solana leaders order transactions in a block. Open source, mainnet data">
   <rect x="0.5" y="0.5" width="399" height="99" rx="6" fill="#0d1117" stroke="#3d444d"/>
   <text x="16" y="31" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, sans-serif" font-size="16" font-weight="600" fill="#4493f8">Validator tx ordering kit</text>
-  <text x="16" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, sans-serif" font-size="13" fill="#9198a1">How mainnet leaders order transactions in a block</text>
+  <text x="16" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, sans-serif" font-size="13" fill="#9198a1">How Solana leaders order transactions in a block</text>
   <text x="16" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, sans-serif" font-size="12" fill="#9198a1">Open source</text>
   <g transform="translate(281,66)">
     <rect x="0.5" y="0.5" width="102" height="21" rx="10.5" fill="none" stroke="#3d444d"/>
